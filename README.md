@@ -1,1 +1,1 @@
-#sqlg: Automating gRPC Generation from sqlc Outputs
+# sqlg: Automating gRPC Generation from sqlc Outputs
